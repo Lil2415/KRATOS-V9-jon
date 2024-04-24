@@ -7,14 +7,14 @@
 
 
 <p align="center">
-<a href="https://github.com/owlai01/Owl-Ai"><img title="Author" src="https://img.shields.io/badge/THE 𝐎𝐖𝐋-𝐀𝐈 -black?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/owlai01/Owl-Ai"><img title="Author" src="https://img.shields.io/badge/THE 𝐊𝐑𝐀𝐓𝐎𝐒-𝐕9 -red?style=for-the-badge&logo=github"></a>
 <p/>
 
 <p align="center">
-<a href="https://github.com/owlai01?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/owlai01?label=Followers&style=social"></a>
-<a href="https://github.com/owlai01/Owl-Ai/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/owlai01/Owl-Ai?&style=social"></a>
-<a href="https://github.com/owlai01/Owl-Ai/network/members"><img title="Fork" src="https://img.shields.io/github/forks/owlai01/Owl-Ai?style=social"></a>
-<a href="https://github.com/owlai01/Owl-Ai/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/owlai01/Owl-Ai?label=Watching&style=social"></a>
+<a href="https://github.com/mickeynagasaki12?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/mickeynagasaki12?label=Followers&style=social"></a>
+<a href="https://github.com/mickeynagasaki12/KRATOS-V9-/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/mickeynagasaki12/KRATOS-V9?&style=social"></a>
+<a href="https://github.com/mickeynagasaki12/KRATOS-V9-/network/members"><img title="Fork" src="https://img.shields.io/github/forks/owlai01/KRATOS-V9?style=social"></a>
+<a href="https://github.com/mickeynagasaki12/KRATOS-V9-/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/mickeynagasaki12/KRATOS-V9?label=Watching&style=social"></a>
 </p>
  
 <h1 align="center">𓃗𝐊𝐑𝐀𝐓𝐎𝐒-𝐕9𓃗</h1>
@@ -61,9 +61,9 @@ $ npm start
 3. Scan the QR code from the second device. (Go to WhatsApp > Linked Devices > Link a Device) 
 ---------
 
-<h2 align="left">All Credits To malibu thee great</h2>
+<h2 align="left">All Credits To Somiya </h2>
 
-<a href="https://github.com/owlai01"><img src="https://telegra.ph/file/6ac60544dabe7d3c2c84a.jpg" width="70" height="70" alt="malibu"/></a>
+<a href="https://github.com/mickeynagasaki12"><img src="https://telegra.ph/file/6ac60544dabe7d3c2c84a.jpg" width="70" height="70" alt="malibu"/></a>
   
 `𝙎𝙊𝙈𝙄𝙔𝘼_𝙉𝙀𝙂𝙄`
 

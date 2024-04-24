@@ -7,7 +7,7 @@
 
 
 <p align="center">
-<a href="https://github.com/owlai01/Owl-Ai"><img title="Author" src="https://img.shields.io/badge/THE 𝐊𝐑𝐀𝐓𝐎𝐒-𝐕9 -red?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/mickeynagasaki12/KRATOS-V9"><img title="Author" src="https://img.shields.io/badge/𝐀𝐋𝐌𝐈𝐆𝐇𝐓𝐘 𝐊𝐑𝐀𝐓𝐎𝐒-𝐕9 -red?style=for-the-badge&logo=github"></a>
 <p/>
 
 <p align="center">

@@ -1824,7 +1824,7 @@ client.sendMessage(from, buttonMessage, { quoted: m })
    fs.unlinkSync(media); 
    if (err) throw err 
    let buffer = fs.readFileSync(mokaya); 
-   client.sendMessage(m.chat, { image: buffer, caption: `Converted by Owl ai! 🦄`}, { quoted: m }) 
+   client.sendMessage(m.chat, { image: buffer, caption: `Converted by KRATOS-V9! 🦄`}, { quoted: m }) 
    fs.unlinkSync(mokaya); 
     }); 
     } 
@@ -1880,7 +1880,7 @@ case "movie":
  break; 
         
        case "script": case "repo": case "sc": 
- client.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/fe8c712b7d6039b9a706a.jpg' }, caption: `You can deploy this bot using the github link below!\nFork and enjoy our kenyan bot✨.\n\nhttps://github.com/mickeynagasaki12/KRATOS-V9-\n\nget your pair code on replit using this link[https://replit.com/@vagaabond9/Pairing-Owl-ai?v=1]\n\nenjoy and have fun 😊 with our bot\n\nMade on Earth by Somiya!` }, {quoted: m}); 
+ client.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/fe8c712b7d6039b9a706a.jpg' }, caption: `You can deploy this bot using the github link below!\nFork and enjoy our kenyan bot✨.\n\nhttps://github.com/mickeynagasaki12/KRATOS-V9-\n\nget your pair code on replit using this link[https://replit.com/@mickeynagasaki1/KRATOS-V9?s=app]\n\nenjoy and have fun 😊 with our bot\n\nMade on Earth by Somiya!` }, {quoted: m}); 
   
  break
 

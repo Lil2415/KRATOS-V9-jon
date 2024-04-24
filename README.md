@@ -1,6 +1,6 @@
  <p align="center">  
   <a href="">
-    <img alt="𝐎𝐖𝐋-𝐀𝐈" width="600" height="350" src="https://telegra.ph/file/afa18fd398c209fea95ef.jpg/iI086tX.jpeg">
+    <img alt="𝐎𝐖𝐋-𝐀𝐈" width="600" height="350" src="https://telegra.ph/file/61cace84b0ce9fdebf4ee.jpg">
   </a>
 </p>
 

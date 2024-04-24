@@ -1,6 +1,6 @@
  <p align="center">  
   <a href="">
-    <img alt="𝐎𝐖𝐋-𝐀𝐈" width="600" height="350" src="https://telegra.ph/file/61cace84b0ce9fdebf4ee.jpg">
+    <img alt="𝐊𝐑𝐀𝐓𝐎𝐒-𝐕9" width="600" height="350" src="https://telegra.ph/file/61cace84b0ce9fdebf4ee.jpg">
   </a>
 </p>
 
@@ -17,7 +17,7 @@
 <a href="https://github.com/owlai01/Owl-Ai/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/owlai01/Owl-Ai?label=Watching&style=social"></a>
 </p>
  
-<h1 align="center">𓅓𝐎𝐖𝐋-𝐀𝐈𓅓</h1>
+<h1 align="center">𓃗𝐊𝐑𝐀𝐓𝐎𝐒-𝐕9𓃗</h1>
 
 <h2 align="left">ＳＥＳＳＩＯＮ ＩＤ (ＰＡＩＲ ＣＯＤＥ)</h2>
 <p align="left">
@@ -63,7 +63,7 @@ $ npm start
 
 <h2 align="left">All Credits To malibu thee great</h2>
 
-<a href="https://github.com/owlai01"><img src="https://telegra.ph/file/bd6345298eefdf3fdd027.jpg" width="70" height="70" alt="malibu"/></a>
+<a href="https://github.com/owlai01"><img src="https://telegra.ph/file/6ac60544dabe7d3c2c84a.jpg" width="70" height="70" alt="malibu"/></a>
   
 `malibu`
 
